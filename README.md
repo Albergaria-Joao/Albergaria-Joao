@@ -2,7 +2,7 @@
 [![MasterHead](banner (1).png)](https://github.com/Jvab1609)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&hide=stars,followers,prs,issues,reviews)](https://git.io/streak-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvab1609)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
