@@ -12,7 +12,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme)](https://git.io/streak-stats)
 
