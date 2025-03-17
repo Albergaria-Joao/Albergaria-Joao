@@ -2,7 +2,6 @@
 
 <h1>Hello there! 👋</h1>
 <li>
-   <ul>
       <ul>
       🇧🇷 I'm a 20-year-old Brazilian Computer Engineering undergraduate and full stack developer.<br>
       </ul>
