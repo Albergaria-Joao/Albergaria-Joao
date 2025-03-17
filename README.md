@@ -8,7 +8,8 @@
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on LinkedIn!</ul>
 <ul>⚙️ <b>Current project:</b> an application using the Python Flask framework, which aims to teach about company management through gamification</ul>
 
-<div style="align-content: center">
+<div style="align-content: center;">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi)
