@@ -8,20 +8,7 @@
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on LinkedIn!</ul>
 <ul>⚙️ <b>Current project:</b> an application using the Python Flask framework, which aims to teach about company management through gamification</ul>
 
-<div style="align-content: center;">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi" />
-</a>
+<div style="align-content: center; display: flex">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
