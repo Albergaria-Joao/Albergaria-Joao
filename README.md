@@ -7,6 +7,7 @@
 <ul>🧠 I have experiences with projects developed utilizing Java and MySQL — whether it's "getting my hands dirty" or leading a team — and I am now working on a Web app using the Flask Python framework.</ul>
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on LinkedIn!</ul>
 <ul>⚙️ Current project: an application using the Python Flask framework, which aims to teach about company management through gamification</ul>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=radical)
