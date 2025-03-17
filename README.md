@@ -11,16 +11,16 @@
 <div style="align-content: center;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage" />
+  <img align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi" />
+  <img align="center" src="https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
