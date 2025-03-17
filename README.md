@@ -9,7 +9,7 @@
 <ul>⚙️ <b>Current project:</b> an application using the Python Flask framework, which aims to teach about company management through gamification.</ul>
 <hr>
 <h1>My GitHub stats</h1>
-<div style="align-content: center; display: flex">
+<div style="align-content: center; justify-content: center; margin: auto">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
