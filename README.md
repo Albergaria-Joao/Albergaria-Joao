@@ -7,7 +7,6 @@
 <ul>🧠 I have experiences with projects developed utilizing Java and MySQL — whether it's "getting my hands dirty" or leading a team — and I am now working on a Web app using the Flask Python framework.</ul>
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on LinkedIn!</ul>
 <ul>⚙️ <b>Current project:</b> an application using the Python Flask framework, which aims to teach about company management through gamification</ul>
-<br>
 <hr>
 <h1>My GitHub stats</h1>
 <div style="align-content: center; display: flex">
