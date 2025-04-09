@@ -4,7 +4,7 @@
 <ul>👨‍💻 I'm a 20-year-old Brazilian Computer Engineering undergraduate and full stack developer.<br></ul>
 <ul>🌱 My journey in the world of technology began as early as 11 years of age, when I took a 4-year-long programming, game development and robotics course aimed at kids and teens.<br></ul>
 <ul>🤖 It allowed me to learn technologies such as C++, C#, PHP, web and database development, and prompted me into choosing Computer Engineering for my graduation.</ul>
-<ul>🧠 I have experiences with projects developed utilizing Java and MySQL — whether it's "getting my hands dirty" or leading a team.</ul>
+<ul>🧠 I have experiences with projects for real clients developed utilizing Java and MySQL — whether it's "getting my hands dirty" or leading a team.</ul>
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on my <a href="https://www.linkedin.com/in/albergaria-joao/">LinkedIn!</a></ul>
 <ul>⚙️ <b>Current projects:</b> 
   <ul>An application using the Python Flask framework, which aims to teach about company management through gamification, created in partnership with a professor;</ul>
