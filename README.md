@@ -6,7 +6,9 @@
 <ul>🤖 It allowed me to learn technologies such as C++, C#, PHP, web and database development, and prompted me into choosing Computer Engineering for my graduation.</ul>
 <ul>🧠 I have experiences with projects developed utilizing Java and MySQL — whether it's "getting my hands dirty" or leading a team.</ul>
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on LinkedIn!</ul>
-<ul>⚙️ <b>Current project:</b> an application using the Python Flask framework, which aims to teach about company management through gamification, created in partnership with a professor.</ul>
+<ul>⚙️ <b>Current projects:</b> 
+  <ul>An application using the Python Flask framework, which aims to teach about company management through gamification, created in partnership with a professor.</ul>
+  <ul>An automatic short video generator utilizing MoviePy and the Deepseek R1 AI model for the CS50 Final Project</ul></ul>
 <hr>
 <h1>My GitHub stats</h1>
 <div style="align-content: center; justify-content: center; margin: auto">
