@@ -19,7 +19,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
