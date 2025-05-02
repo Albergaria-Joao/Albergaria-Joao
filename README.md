@@ -8,7 +8,7 @@
 <ul>🔒 Most of my projects are actually private though, so I can't show them in public repositories. If you would like to know more about them, message me here or on my <a href="https://www.linkedin.com/in/albergaria-joao/">LinkedIn!</a></ul>
 <ul>⚙️ <b>Current projects:</b> 
   <ul>An application using the Python Flask framework, which aims to teach about company management through gamification, created in partnership with a professor;</ul>
-  <ul>An automatic short video generator utilizing MoviePy and the Deepseek R1 AI model for the CS50 Final Project.</ul></ul>
+  <ul>An automatic short video generator utilizing MoviePy and the Deepseek R1 AI model for the CS50x Final Project.</ul></ul>
 <hr>
 <h1>My GitHub stats</h1>
 <div style="align-content: center; justify-content: center; margin: auto">
