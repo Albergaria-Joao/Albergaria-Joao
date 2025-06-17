@@ -13,13 +13,13 @@
 <h1>My GitHub stats</h1>
 <div style="align-content: center; justify-content: center; margin: auto">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jvab1609&theme=algolia&title=-Stars,-Followers,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Albergaria-Joao&theme=algolia&title=-Stars,-Followers,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Jvab1609&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats-jvab1609s-projects.vercel.app/api?username=Albergaria-Joao&show_icons=true&theme=holi&rank_icon=github&show=prs_merged_percentage&hide=contribs)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jvab1609&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albergaria-Joao&theme=holi-theme)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Jvab1609&langs_count=10&theme=holi&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jvab1609s-projects.vercel.app/api/top-langs/?username=Albergaria-Joao&langs_count=10&theme=holi&hide=jupyter%20notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
