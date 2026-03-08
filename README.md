@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Tools I have experience with</h2>
+<h2 align="left">Technical stack</h2>
 
 ###
 
